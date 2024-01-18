@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: #000;
+    /*АНИМЕ ДЕВОЧЕК СЮДА!!!*/
+    background-image: url("https://sujer-ux.github.io/bpplay/wall/back.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.wrapper {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.player {
+    width: 60%;
+    margin-bottom: 60px;
+}
+
+.player audio {
+    width: 100%;
+}
