@@ -5,5 +5,5 @@ git status
 git commit -m "0"
 git push --all
 echo .
-call 0F "Изменения сохранены"
+echo Изменения сохранены и отправлены на сервер
 pause
