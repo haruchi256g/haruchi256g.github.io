@@ -6,5 +6,5 @@ git commit -m "0"
 git push --all
 echo .
 echo Изменения сохранены и отправлены на сервер
-https://haruchi256g.github.io/
+"C:\Program Files\Mozilla Firefox\firefox.exe" https://haruchi256g.github.io/
 pause
