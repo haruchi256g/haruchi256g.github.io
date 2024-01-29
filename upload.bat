@@ -8,3 +8,4 @@ echo .
 echo Изменения сохранены и отправлены на сервер
 "C:\Program Files\Mozilla Firefox\firefox.exe" https://haruchi256g.github.io/
 pause
+
